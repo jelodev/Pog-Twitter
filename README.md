@@ -21,7 +21,7 @@ App name is the source label btw.
 
 ![Example2](https://i.imgur.com/4QgtO1D.png)
 
-* You will see your **API Keys)** and **Access Tokens** and paste them into **Pog Twitter** and press the blue button **Update**.
+* You will see your **API Keys** and **Access Tokens** and paste them into **Pog Twitter** and press the blue button **Update**.
 
 Everything should be now working, tweet something and check if it appears on your profile!
 **If it doesn't work **PLEASE** create a new Issue!**
