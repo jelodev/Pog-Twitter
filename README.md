@@ -5,7 +5,7 @@ Pog Twitter is my project that I have been working on which allows you to tweet 
 # Installation
 Go to [Releases](https://github.com/JeloLeaks/PogTwitter/releases/).
 
-Dude there is no way you don't know how to download, extract and run the app.
+Dude there is no way you don't know how to download, and run the app.
 
 But there will be a tutorial soon on both downloading and using the app :)
 
