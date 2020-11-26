@@ -1,3 +1,5 @@
+[](https://github.com/Jelodev/Pog-Twitter/releases/download/v2.1.0/Pog-Twitter.exe)
+
 # Pog Twitter <img src=https://i.imgur.com/yV5NihE.png align=left width="50" height="50">
 *(didnt have any ideas for the name)* 
 Pog Twitter is my project that I have been working on which allows you to tweet with a custom Source Label **(the thing that is under the tweet)** which is possible but many people had a problem with tweeting a picture/video using python or whatever they used. This changes **everything**. Kapp
