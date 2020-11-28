@@ -1,4 +1,4 @@
-[Download latest release](https://github.com/Jelodev/Pog-Twitter/releases/download/v2.1.0/Pog-Twitter.exe)
+[Download latest release](https://github.com/Jelodev/Pog-Twitter/releases/download/latest/Pog-Twitter.exe)
 
 # Pog Twitter <img src=https://i.imgur.com/yV5NihE.png align=left width="50" height="50">
 *(didnt have any ideas for the name)* 
