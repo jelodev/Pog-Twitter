@@ -1,17 +1,14 @@
-[Download latest release](https://github.com/Jelodev/Pog-Twitter/releases/latest/download/Pog-Twitter.exe)
 
 # Pog Twitter <img src=https://i.imgur.com/yV5NihE.png align=left width="50" height="50">
 *(didnt have any ideas for the name)* 
 Pog Twitter is my project that I have been working on which allows you to tweet with a custom Source Label **(the thing that is under the tweet)** which is possible but many people had a problem with tweeting a picture/video using python or whatever they used. This changes **everything**. Kapp
 
 # Installation
-Go to [Releases](https://github.com/JeloLeaks/PogTwitter/releases/).
+[Download latest release](https://github.com/Jelodev/Pog-Twitter/releases/latest/download/Pog-Twitter.exe)
 
-Dude there is no way you don't know how to download, and run the app.
+Put the exe somewhere and run the application.
 
-But there will be a tutorial soon on both downloading and using the app :)
-
-# Creating Twitter app (Twitter did something and new created apps don't show the source labels)
+# Creating Twitter app
 
 * Go to [Twitter Developers](https://developer.twitter.com/en/apps)
 * Then they will probably ask you to apply for a **Developer** account unless you already did before.
